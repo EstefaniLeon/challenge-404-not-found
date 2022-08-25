@@ -2,7 +2,7 @@
 Challenges - Challenge from DevChallenges.io - 404 Not Found
 _Hello, This is a challenge from DevChallenges.io and also is my first project, this is specialized in frontend develop, is a 404 Not Found Page._
 
-## [Try the live demo](https://github.com/EstefaniLeon/challenge-404-not-found) 😺
+## [Try the live demo](https://404-notfound-page-challenge.netlify.app/) 😺
 ![Thumbnail](https://github.com/EstefaniLeon/challenge-404-not-found/blob/main/design/desktop%20design.jpg)
 
 <br>
