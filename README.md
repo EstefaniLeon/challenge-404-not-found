@@ -12,7 +12,7 @@ _Hello, This is a challenge from DevChallenges.io and also is my first project, 
 _To use this project you will need to clone this repository or download it to your computer. If you choose to download it directly in the upper right part of the repository you will have the option, if it is not your case you can clone it using the following command._
 
 ```ssh
-  $ git clone https://github.com/EstefaniLeon/404-Not-Found-Challenge.git
+  $ git clone https://github.com/EstefaniLeon/challenge-404-not-found.git
 ```
 
 <br>
